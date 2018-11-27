@@ -2,7 +2,7 @@
 The machine learning projects about Udacity Machine Learning Nanodegree (MLND). 
 
 View the GitHub Page: 
-- https://elvawyf.github.io/machine-learning-nanodegree/
+- https://evawyf.github.io/machine-learning-nanodegree/
 
 Machine learning represents a key evolution in the fields of computer science, data analysis, software engineering, and artificial intelligence.
 
