@@ -20,7 +20,7 @@ For more information, please view my personal website: https://evawyf.github.io/
 
 In this introductory project, it explored a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive. To complete this project, students need to implement several conditional predictions and answer the questions in the project. 
 
-- https://evawyf.github.io/mlnd/P0_Titanic/elva_Titanic_Survival_Exploration.html
+- https://evawyf.github.io/mlnd/P0_Titanic/titanic_survival_exploration.html
 
 
 ## P1. Predicting Boston Housing Prices
