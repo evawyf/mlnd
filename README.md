@@ -1,7 +1,7 @@
 # Udacity Machine Learning Nanodegree Projects
 The machine learning projects about Udacity Machine Learning Nanodegree (MLND). 
 
-Thanks to Udacity (Co-Created by: Kaggle Projects) provide the excellent materials for students to equip to become a data analyst or a machine learning engineer, and to apply predictive models to massive data sets in fields like finance, healthcare, education, and more. 
+Thanks to Udacity (Co-Created by: Kaggle Projects) provide the excellent materials for students to equip to be a data analyst or a machine learning engineer, and to apply predictive models to massive data sets in fields like finance, healthcare, education, and more. 
 
 This is a briefly introduce of every projects. 
 
