@@ -34,4 +34,8 @@ A wholesale distributor recently tested a change to their delivery method for so
 
 ## P4. Train a Smartcab to Drive
 
+### Reinforcement Learning
+
+Smartcab is a project result submission for Udacity Smartcab project. It is a worksheet in Jupyter Notebook, in which we will use reinforcement machine learning techniques to construct an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
+
 ## P5. Capstone Project
