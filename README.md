@@ -6,7 +6,7 @@ View the GitHub Page:
 
 Machine learning represents a key evolution in the fields of computer science, data analysis, software engineering, and artificial intelligence.
 
-This program will teach you how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
+This program will teach students how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
 
 Co-Created by:
 
@@ -17,13 +17,13 @@ Projects
 
 ### Exploration
 
-In this introductory project, we will explore a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive. To complete this project, you will need to implement several conditional predictions and answer the questions below. Your project submission will be evaluated based on the completion of the code and your responses to the questions.
+In this introductory project, it will be explored a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive. To complete this project, students will need to implement several conditional predictions and answer the questions below. Students' project submission will be evaluated based on the completion of the code and your responses to the questions.
 
 ## Predicting Boston Housing Prices
 
 ### Model Evaluation and Validation
 
-In this project, you will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. You will first explore the data to obtain important features and descriptive statistics about the dataset. Next, you will properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. You will then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable you to pick the optimal model that best generalizes for unseen data. Finally, you will test this optimal model on a new sample and compare the predicted selling price to your statistics.
+In this project, students will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. First, to explore the data to obtain important features and descriptive statistics about the dataset. Next, to properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. Then, to analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable students to pick the optimal model that best generalizes for unseen data. Finally, to test this optimal model on a new sample and compare the predicted selling price to your statistics.
 
 ## Build a Student Intervention System
 
